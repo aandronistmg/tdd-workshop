@@ -31,11 +31,11 @@ pytest
 
 `-v` verbose
 
-## Example kata for TDD
+## Example [kata](https://en.wikipedia.org/wiki/Kata) for TDD
 
 [FizzBuzz](https://codingdojo.org/kata/FizzBuzz/)
 
-## Kata for TDD
+## Practice [kata](https://en.wikipedia.org/wiki/Kata) for TDD
 
 [Roman Numerals kata](https://codingdojo.org/kata/RomanNumerals/)
 
