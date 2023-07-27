@@ -1,6 +1,6 @@
 # TDD Workshop with Pytest
 
-**Goal of the workshop**: everyone has an understanding of the importance of testing and knows how to get started with TDD in pytest
+**Workshop goal**: everyone has an understanding of the importance of testing and knows how to get started with TDD in pytest
 
 ## Setting up environment and installing libraries (MacOS)
 
@@ -31,11 +31,11 @@ pytest
 
 `-v` verbose
 
-## Example TDD
+## Example kata for TDD
 
 [FizzBuzz](https://codingdojo.org/kata/FizzBuzz/)
 
-## Practical problem for TDD
+## Kata for TDD
 
 [Roman Numerals kata](https://codingdojo.org/kata/RomanNumerals/)
 
@@ -58,8 +58,3 @@ You should proceed with baby steps, as small as possible! The above steps are th
 
 ## Pair programming refresher
 >> Pair programming is a software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently. While reviewing, the observer also considers the "strategic" direction of the work, coming up with ideas for improvements and likely future problems to address. This is intended to free the driver to focus all of their attention on the "tactical" aspects of completing the current task, using the observer as a safety net and guide.
-
-- two programmers
-    - driver : writes code
-    - observer/navigator : reviews each line of code as it's types
-- switch every 10 min
